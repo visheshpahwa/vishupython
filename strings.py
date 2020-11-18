@@ -1,0 +1,10 @@
+mystr = "my name is vishu pahwa"
+# print(mystr)
+# print( mystr [0:22:] )
+# print(len(mystr))
+# print(mystr.endswith("pahwa"))
+print(mystr.upper())
+print(mystr.lower())
+print(mystr.capitalize())
+print(mystr.find("is"))
+print(mystr.replace("vishu","vishesh"))
